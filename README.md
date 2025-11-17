@@ -14,7 +14,3 @@ O programa faz a conversão entre algumas moedas usando taxas fixas e funciona t
 1. Instale o Python (versão 3.x).
 2. Baixe o arquivo do projeto.
 3. Rode o comando:
-
-```bash
-python conversor_tkinter.py
-A interface vai abrir na tela.
