@@ -3,11 +3,11 @@ from tkinter import ttk, messagebox
 
 TAXAS = {
     ("USD", "BRL"): 5.31,
-    ("BRL", "USD"): 1/5.50,
+    ("BRL", "USD"): 1 / 5.31,
     ("EUR", "BRL"): 6.00,
-    ("BRL", "EUR"): 1/6.00,
+    ("BRL", "EUR"): 1 / 6.00,
     ("USD", "EUR"): 0.92,
-    ("EUR", "USD"): 1/0.92,
+    ("EUR", "USD"): 1 / 0.92,
 }
 
 def fazer_conversao():
